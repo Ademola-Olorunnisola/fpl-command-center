@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T19:37:01.367096+00:00",
-  "next_gw": 1,
+  "generated_at": "2026-08-25T08:38:26.867790+00:00",
+  "next_gw": 2,
   "player_pool": [
     {
       "name": "Hall",
@@ -81,7 +81,7 @@
       "points_last_gw": 12.0
     },
     {
-      "name": "Sangar\u00e9",
+      "name": "I.Sangar\u00e9",
       "position": "MID",
       "team": "Nott'm Forest",
       "price": 5.0,
@@ -144,6 +144,19 @@
       "minutes_3gw": 90.0,
       "opp_goals_against_3m": 0.67,
       "points_last_gw": 13.0
+    },
+    {
+      "name": "Suzuki",
+      "position": "GK",
+      "team": "Aston Villa",
+      "price": 5.0,
+      "xP": 3.57,
+      "form_3gw": 6.0,
+      "form_5gw": 4.4,
+      "ict_3gw": 8.37,
+      "minutes_3gw": 90.0,
+      "opp_goals_against_3m": 2.67,
+      "points_last_gw": 7.0
     },
     {
       "name": "Luki\u0107",
@@ -445,6 +458,19 @@
       "points_last_gw": 1.0
     },
     {
+      "name": "Brooks",
+      "position": "MID",
+      "team": "Bournemouth",
+      "price": 5.0,
+      "xP": 2.92,
+      "form_3gw": 6.67,
+      "form_5gw": 6.6,
+      "ict_3gw": 5.6,
+      "minutes_3gw": 90.0,
+      "opp_goals_against_3m": 1.67,
+      "points_last_gw": 4.0
+    },
+    {
       "name": "McNeil",
       "position": "MID",
       "team": "Crystal Palace",
@@ -692,19 +718,6 @@
       "points_last_gw": 2.0
     },
     {
-      "name": "Bruno G.",
-      "position": "MID",
-      "team": "Arsenal",
-      "price": 7.0,
-      "xP": 2.62,
-      "form_3gw": 2.0,
-      "form_5gw": 1.6,
-      "ict_3gw": 2.63,
-      "minutes_3gw": 69.67,
-      "opp_goals_against_3m": 1.33,
-      "points_last_gw": 2.0
-    },
-    {
       "name": "Wharton",
       "position": "MID",
       "team": "Crystal Palace",
@@ -729,6 +742,19 @@
       "minutes_3gw": 40.0,
       "opp_goals_against_3m": 1.67,
       "points_last_gw": 9.0
+    },
+    {
+      "name": "Fofana",
+      "position": "DEF",
+      "team": "Chelsea",
+      "price": 5.0,
+      "xP": 2.58,
+      "form_3gw": 6.0,
+      "form_5gw": 4.6,
+      "ict_3gw": 7.7,
+      "minutes_3gw": 62.0,
+      "opp_goals_against_3m": 1.33,
+      "points_last_gw": 2.0
     },
     {
       "name": "Emersonn",
@@ -965,6 +991,19 @@
       "points_last_gw": 1.0
     },
     {
+      "name": "Darlow",
+      "position": "GK",
+      "team": "Man Utd",
+      "price": 4.5,
+      "xP": 2.46,
+      "form_3gw": 1.67,
+      "form_5gw": 2.2,
+      "ict_3gw": 2.4,
+      "minutes_3gw": 66.67,
+      "opp_goals_against_3m": 1.0,
+      "points_last_gw": 2.0
+    },
+    {
       "name": "Palacios",
       "position": "MID",
       "team": "Fulham",
@@ -1147,6 +1186,32 @@
       "points_last_gw": 9.0
     },
     {
+      "name": "Andersen",
+      "position": "DEF",
+      "team": "Fulham",
+      "price": 5.0,
+      "xP": 2.24,
+      "form_3gw": 1.0,
+      "form_5gw": 1.0,
+      "ict_3gw": 1.7,
+      "minutes_3gw": 90.0,
+      "opp_goals_against_3m": 0.0,
+      "points_last_gw": 0.0
+    },
+    {
+      "name": "Rowe",
+      "position": "DEF",
+      "team": "Aston Villa",
+      "price": 4.0,
+      "xP": 2.23,
+      "form_3gw": 2.0,
+      "form_5gw": 3.2,
+      "ict_3gw": 3.23,
+      "minutes_3gw": 90.0,
+      "opp_goals_against_3m": 0.67,
+      "points_last_gw": 3.0
+    },
+    {
       "name": "Bendito Mantato",
       "position": "MID",
       "team": "Man Utd",
@@ -1210,6 +1275,19 @@
       "minutes_3gw": 77.33,
       "opp_goals_against_3m": 1.67,
       "points_last_gw": 1.0
+    },
+    {
+      "name": "Adams",
+      "position": "MID",
+      "team": "Bournemouth",
+      "price": 5.0,
+      "xP": 2.16,
+      "form_3gw": 5.67,
+      "form_5gw": 3.4,
+      "ict_3gw": 1.87,
+      "minutes_3gw": 59.67,
+      "opp_goals_against_3m": 1.67,
+      "points_last_gw": 6.0
     },
     {
       "name": "Amass",
@@ -1290,17 +1368,17 @@
       "points_last_gw": 2.0
     },
     {
-      "name": "F.Kad\u0131o\u011flu",
-      "position": "DEF",
-      "team": "Brighton",
-      "price": 4.5,
+      "name": "Rudoni",
+      "position": "MID",
+      "team": "Coventry City",
+      "price": 5.0,
       "xP": 2.11,
-      "form_3gw": 3.33,
-      "form_5gw": 3.2,
-      "ict_3gw": 2.9,
-      "minutes_3gw": 32.67,
-      "opp_goals_against_3m": 2.67,
-      "points_last_gw": 4.0
+      "form_3gw": 1.33,
+      "form_5gw": 0.8,
+      "ict_3gw": 1.63,
+      "minutes_3gw": 60.0,
+      "opp_goals_against_3m": 1.67,
+      "points_last_gw": 2.0
     },
     {
       "name": "Castagne",
@@ -1420,6 +1498,19 @@
       "points_last_gw": 1.0
     },
     {
+      "name": "Lienou",
+      "position": "DEF",
+      "team": "Leeds",
+      "price": 4.0,
+      "xP": 2.0,
+      "form_3gw": 1.0,
+      "form_5gw": 2.0,
+      "ict_3gw": 5.43,
+      "minutes_3gw": 84.33,
+      "opp_goals_against_3m": 0.67,
+      "points_last_gw": 0.0
+    },
+    {
       "name": "Aina",
       "position": "DEF",
       "team": "Nott'm Forest",
@@ -1524,19 +1615,6 @@
       "points_last_gw": 1.0
     },
     {
-      "name": "Palestra",
-      "position": "DEF",
-      "team": "Chelsea",
-      "price": 5.5,
-      "xP": 1.89,
-      "form_3gw": 2.67,
-      "form_5gw": 1.8,
-      "ict_3gw": 0.83,
-      "minutes_3gw": 52.67,
-      "opp_goals_against_3m": 1.33,
-      "points_last_gw": 6.0
-    },
-    {
       "name": "Borges Rodrigues",
       "position": "MID",
       "team": "Coventry City",
@@ -1546,6 +1624,19 @@
       "form_5gw": 2.8,
       "ict_3gw": 2.57,
       "minutes_3gw": 87.0,
+      "opp_goals_against_3m": 1.67,
+      "points_last_gw": 2.0
+    },
+    {
+      "name": "Meunier",
+      "position": "DEF",
+      "team": "Sunderland",
+      "price": 4.5,
+      "xP": 1.88,
+      "form_3gw": 4.0,
+      "form_5gw": 2.8,
+      "ict_3gw": 2.0,
+      "minutes_3gw": 83.67,
       "opp_goals_against_3m": 1.67,
       "points_last_gw": 2.0
     },
@@ -2070,6 +2161,19 @@
       "points_last_gw": 1.0
     },
     {
+      "name": "De Fougerolles",
+      "position": "DEF",
+      "team": "Fulham",
+      "price": 4.0,
+      "xP": 1.45,
+      "form_3gw": 1.33,
+      "form_5gw": 0.8,
+      "ict_3gw": 1.4,
+      "minutes_3gw": 59.0,
+      "opp_goals_against_3m": 0.67,
+      "points_last_gw": 1.0
+    },
+    {
       "name": "Bogle",
       "position": "DEF",
       "team": "Leeds",
@@ -2133,6 +2237,19 @@
       "minutes_3gw": 0.33,
       "opp_goals_against_3m": 0.67,
       "points_last_gw": 1.0
+    },
+    {
+      "name": "Rodr\u00edguez",
+      "position": "FWD",
+      "team": "Bournemouth",
+      "price": 6.0,
+      "xP": 1.4,
+      "form_3gw": 0.0,
+      "form_5gw": 0.0,
+      "ict_3gw": 0.07,
+      "minutes_3gw": 4.67,
+      "opp_goals_against_3m": 1.67,
+      "points_last_gw": 0.0
     },
     {
       "name": "Smith Rowe",
@@ -2200,6 +2317,19 @@
       "points_last_gw": 0.0
     },
     {
+      "name": "Shahar",
+      "position": "DEF",
+      "team": "Newcastle",
+      "price": 4.0,
+      "xP": 1.28,
+      "form_3gw": 0.33,
+      "form_5gw": 0.4,
+      "ict_3gw": 0.47,
+      "minutes_3gw": 38.33,
+      "opp_goals_against_3m": 0.67,
+      "points_last_gw": 0.0
+    },
+    {
       "name": "Mykolenko",
       "position": "DEF",
       "team": "Everton",
@@ -2236,19 +2366,6 @@
       "ict_3gw": 0.7,
       "minutes_3gw": 15.0,
       "opp_goals_against_3m": 1.67,
-      "points_last_gw": 1.0
-    },
-    {
-      "name": "Caicedo",
-      "position": "MID",
-      "team": "Chelsea",
-      "price": 5.5,
-      "xP": 1.24,
-      "form_3gw": 0.67,
-      "form_5gw": 0.4,
-      "ict_3gw": 0.0,
-      "minutes_3gw": 1.0,
-      "opp_goals_against_3m": 1.33,
       "points_last_gw": 1.0
     },
     {
@@ -2340,19 +2457,6 @@
       "ict_3gw": 3.93,
       "minutes_3gw": 60.0,
       "opp_goals_against_3m": 0.67,
-      "points_last_gw": 0.0
-    },
-    {
-      "name": "Pedro Porro",
-      "position": "DEF",
-      "team": "Spurs",
-      "price": 5.5,
-      "xP": 1.12,
-      "form_3gw": 0.33,
-      "form_5gw": 2.2,
-      "ict_3gw": 0.37,
-      "minutes_3gw": 7.67,
-      "opp_goals_against_3m": 1.67,
       "points_last_gw": 0.0
     },
     {
@@ -2462,7 +2566,7 @@
     {
       "name": "Konsa",
       "position": "DEF",
-      "team": "Aston Villa",
+      "team": "Arsenal",
       "price": 4.5,
       "xP": 0.8,
       "form_3gw": 0.33,
@@ -2496,110 +2600,6 @@
       "ict_3gw": 1.2,
       "minutes_3gw": 36.33,
       "opp_goals_against_3m": 2.33,
-      "points_last_gw": 0.0
-    },
-    {
-      "name": "Travers",
-      "position": "GK",
-      "team": "Everton",
-      "price": 5.0,
-      "xP": 0.78,
-      "form_3gw": 1.67,
-      "form_5gw": 1.0,
-      "ict_3gw": 1.47,
-      "minutes_3gw": 45.0,
-      "opp_goals_against_3m": 0.67,
-      "points_last_gw": 0.0
-    },
-    {
-      "name": "Hirst",
-      "position": "FWD",
-      "team": "Ipswich Town",
-      "price": 5.0,
-      "xP": 0.78,
-      "form_3gw": 0.33,
-      "form_5gw": 3.6,
-      "ict_3gw": 0.9,
-      "minutes_3gw": 47.0,
-      "opp_goals_against_3m": 1.0,
-      "points_last_gw": 0.0
-    },
-    {
-      "name": "Savinho",
-      "position": "MID",
-      "team": "Man City",
-      "price": 6.5,
-      "xP": 0.76,
-      "form_3gw": 0.33,
-      "form_5gw": 0.2,
-      "ict_3gw": 1.33,
-      "minutes_3gw": 19.0,
-      "opp_goals_against_3m": 2.0,
-      "points_last_gw": 0.0
-    },
-    {
-      "name": "Gray",
-      "position": "MID",
-      "team": "Spurs",
-      "price": 5.0,
-      "xP": 0.74,
-      "form_3gw": 1.33,
-      "form_5gw": 1.6,
-      "ict_3gw": 1.57,
-      "minutes_3gw": 45.0,
-      "opp_goals_against_3m": 0.33,
-      "points_last_gw": 0.0
-    },
-    {
-      "name": "Rulli",
-      "position": "GK",
-      "team": "Man City",
-      "price": 5.0,
-      "xP": 0.71,
-      "form_3gw": 0.33,
-      "form_5gw": 0.8,
-      "ict_3gw": 0.13,
-      "minutes_3gw": 7.67,
-      "opp_goals_against_3m": 2.67,
-      "points_last_gw": 0.0
-    },
-    {
-      "name": "Thomas",
-      "position": "DEF",
-      "team": "Coventry City",
-      "price": 4.0,
-      "xP": 0.7,
-      "form_3gw": 0.33,
-      "form_5gw": 0.6,
-      "ict_3gw": 0.17,
-      "minutes_3gw": 5.67,
-      "opp_goals_against_3m": 1.33,
-      "points_last_gw": 0.0
-    },
-    {
-      "name": "Rogers",
-      "position": "MID",
-      "team": "Chelsea",
-      "price": 7.5,
-      "xP": 0.7,
-      "form_3gw": 0.33,
-      "form_5gw": 0.4,
-      "ict_3gw": 1.37,
-      "minutes_3gw": 60.0,
-      "opp_goals_against_3m": 0.33,
-      "points_last_gw": 0.0
-    },
-    {
-      "name": "Reed",
-      "position": "MID",
-      "team": "Fulham",
-      "price": 4.5,
-      "xP": 0.69,
-      "form_3gw": 0.33,
-      "form_5gw": 0.2,
-      "ict_3gw": 0.9,
-      "minutes_3gw": 19.67,
-      "opp_goals_against_3m": 0.0,
       "points_last_gw": 0.0
     }
   ],
@@ -2653,11 +2653,11 @@
       "starting": true
     },
     {
-      "name": "Valdimarsson",
+      "name": "Suzuki",
       "position": "GK",
-      "team": "Brentford",
-      "price": 4.5,
-      "xP": 3.36,
+      "team": "Aston Villa",
+      "price": 5.0,
+      "xP": 3.57,
       "starting": true
     },
     {
@@ -2685,7 +2685,7 @@
       "starting": true
     },
     {
-      "name": "Sangar\u00e9",
+      "name": "I.Sangar\u00e9",
       "position": "MID",
       "team": "Nott'm Forest",
       "price": 5.0,
@@ -2701,27 +2701,27 @@
       "starting": false
     },
     {
-      "name": "Kusi-Asare",
+      "name": "McBurnie",
       "position": "FWD",
-      "team": "Fulham",
-      "price": 4.5,
-      "xP": 1.42,
+      "team": "Hull City",
+      "price": 5.5,
+      "xP": 2.48,
       "starting": false
     },
     {
-      "name": "Raya",
+      "name": "Phillips",
       "position": "GK",
-      "team": "Arsenal",
-      "price": 6.0,
-      "xP": 3.2,
+      "team": "Hull City",
+      "price": 4.0,
+      "xP": 2.84,
       "starting": false
     },
     {
-      "name": "Wilson",
+      "name": "Luki\u0107",
       "position": "MID",
-      "team": "Leeds",
-      "price": 6.5,
-      "xP": 2.71,
+      "team": "Ipswich Town",
+      "price": 5.0,
+      "xP": 3.55,
       "starting": false
     }
   ],
@@ -2733,17 +2733,17 @@
     },
     "wildcard": {
       "flag": false,
-      "current_xi_value": 46.13,
+      "current_xi_value": 46.33,
       "best_possible": 46.39
     },
     "bench_boost": {
       "flag": false,
-      "bench_value": 9.41
+      "bench_value": 10.94
     },
     "free_hit": {
       "flag": false,
-      "squad_avg": 3.7,
-      "pool_avg": 1.97
+      "squad_avg": 3.82,
+      "pool_avg": 1.99
     }
   }
 }
